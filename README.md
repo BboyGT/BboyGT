@@ -19,7 +19,7 @@
 
 ## Hey, I'm Godstime
 
-I am a software engineer focused on building web products that are useful, polished, and understandable. I work mostly with React, Next.js, TypeScript, Node, Supabase, MongoDB, Prisma, and modern CSS.
+I am a software engineer with 7+ years of hands-on building experience and 4+ years working across international projects, clients, and open-source-style collaboration. I build web products that are useful, polished, and understandable, mostly with React, Next.js, TypeScript, Node, Supabase, MongoDB, Prisma, and modern CSS.
 
 Frontend is my strongest lane, but I care about the whole product: auth, data flow, payments, subscriptions, dashboards, realtime rooms, accessibility, deployment, and the small edge cases that decide whether an app feels finished.
 
@@ -27,6 +27,7 @@ I am currently building public projects around wellness, fitness, AI support too
 
 ```txt
 What I do best:
+Experience              -> 7+ years building, 4+ years international collaboration
 Build product UIs        -> React, Next.js, TypeScript, CSS, responsive layouts
 Ship full-stack features -> auth, payments, subscriptions, dashboards, realtime flows
 Create useful demos      -> CSS bugs, accessibility patterns, browser API experiments

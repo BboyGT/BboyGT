@@ -151,16 +151,16 @@ Project polish           -> clean READMEs, setup flows, safer repos, practical U
 ## GitHub Pulse
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BboyGT&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BboyGT&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BboyGT&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800&v=20260511" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BboyGT&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=20260511" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BboyGT&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=BboyGT&theme=tokyonight&hide_border=true&card_width=720&ring=22C55E&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=94A3B8&v=20260511" alt="GitHub streak showing total contributions, current streak, and longest streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BboyGT&theme=react-dark&hide_border=true&area=true&custom_title=What%20I%20have%20been%20building" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BboyGT&theme=react-dark&hide_border=true&area=true&custom_title=What%20I%20have%20been%20building&v=20260511" alt="GitHub activity graph" />
 </p>
 
 ---

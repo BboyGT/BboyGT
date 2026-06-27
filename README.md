@@ -16,6 +16,14 @@
   <a href="https://github.com/BboyGT?tab=repositories"><img alt="Open to work" src="https://img.shields.io/badge/Open%20to%20Work-f59e0b?style=for-the-badge&logo=handshake&logoColor=white"></a>
 </p>
 
+<p align="center">
+  <a href="mailto:masathygolden@gmail.com"><strong>Email</strong></a>
+  &nbsp;|&nbsp;
+  <a href="https://x.com/GodstimeDev"><strong>X / Twitter</strong></a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/BboyGT?tab=repositories"><strong>GitHub Projects</strong></a>
+</p>
+
 ---
 
 ## Hey, I'm Godstime
@@ -24,7 +32,7 @@ I am a software engineer with 7+ years of hands-on building experience and 4+ ye
 
 Frontend is my strongest lane, but I care about the whole product: data flow, dashboards, auth, payments, subscriptions, realtime rooms, desktop capture, local AI, speech tooling, accessibility, deployment, and the small edge cases that decide whether an app feels finished.
 
-Right now my public work is expanding around AI agents, realtime collaboration, audio/transcription, translation, fitness, productivity, mobile behavior design, and developer tools.
+Right now my public work is expanding around AI agents, realtime collaboration, audio/transcription, translation, fitness, productivity, mobile behavior design, developer tools, and practical technical writing from working code.
 
 ```txt
 What I do best:
@@ -34,6 +42,7 @@ Full-stack features      -> auth, payments, subscriptions, dashboards, realtime 
 Desktop and mobile apps  -> Electron utilities, Android/Kotlin apps, browser extensions
 Developer tools          -> layout debugging, browser API demos, motion path editors
 Project polish           -> clean READMEs, setup flows, safer repos, practical UX
+Technical writing        -> tutorials, docs, debugging guides, SDK-style walkthroughs
 ```
 
 ---
@@ -167,13 +176,14 @@ Project polish           -> clean READMEs, setup flows, safer repos, practical U
 
 ## Open To
 
-I am open to software engineering, frontend engineering, junior full-stack roles, internships, freelance builds, open-source work, and startup projects where I can contribute with real code.
+I am open to software engineering, frontend engineering, junior full-stack roles, internships, freelance builds, paid technical writing, open-source work, and startup projects where I can contribute with real code.
 
 The work I want more of:
 
 - building useful web apps from idea to shipped feature
 - improving UI quality, accessibility, performance, and developer experience
 - creating AI, audio, automation, and productivity tools that solve real problems
+- writing practical developer tutorials from real projects, especially frontend tooling, Electron/audio, realtime apps, and AI workflows
 - fixing tricky frontend bugs and explaining the solution clearly
 - working with small teams, startups, founders, and open-source maintainers
 - learning fast, taking ownership, and shipping consistently
